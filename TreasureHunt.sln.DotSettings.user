@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/jbienaime/.cache/JetBrains/Rider2021.3/resharper-host/temp/Rider/vAny/CoverageData/_TreasureHunt.1987934450/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ec48132_002D154c_002D45b1_002D88de_002D2060840f9140/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AdventurerCannotMoveIfFacingTowardsMapLeftBoundaries" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::91CE1D4D-6F1F-4F58-855F-DD33F57322C6::net6.0::TreasureHuntTest.AdventurerMovementTests.AdventurerCannotMoveIfFacingTowardsMapLeftBoundaries&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::91CE1D4D-6F1F-4F58-855F-DD33F57322C6::net6.0::TreasureHuntTest.AdventurerMovementTests.AdventurerCannotMoveIfFacingTowardsLeftMountain&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcd26d57_002De39e_002D438c_002D92b1_002De93bb661cd75/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CannotGenerateMapWithNegativeDimensions" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\jason.bienaime.ext\RiderProjects\TreasureHunt\TreasureHuntTest" Presentation="&amp;lt;TreasureHuntTest&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

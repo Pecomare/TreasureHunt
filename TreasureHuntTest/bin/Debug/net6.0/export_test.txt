@@ -1,0 +1,6 @@
+C - 5 - 9
+M - 1 - 8
+# {T comme Trésor} - {Axe horizontal} - {Axe vertical} - {Nb. de trésors restant}
+T - 3 - 3 - 2
+# {A comme Aventurier} - {Nom de l'aventurier} - {Axe horizontal} - {Axe vertical} - {Orientation} - {Nb. de trésors ramassés}
+A - Adventurer - 2 - 5 - W - 0
